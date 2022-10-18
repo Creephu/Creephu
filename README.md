@@ -4,7 +4,9 @@
 
 </div>
 
-saya creephu saya di buat oleh apri
+🇮🇩 saya creephu saya di buat oleh apri
+
+🇬🇧 i am creephu i created by apri
 <!---
 Creephu/Creephu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
